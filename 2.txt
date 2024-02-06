@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+Ulyana T    1721       1 ?        11:01:42 /usr/bin/mintty
+Ulyana T    1871    1722 pty0     11:54:30 /usr/bin/ps
+Ulyana T    1722    1721 pty0     11:01:42 /usr/bin/bash
